@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# Manage landing page solution
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a solution to the [Manage landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## The challenge
+Your users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+- See all testimonials in a horizontal slider
+- Receive an error message when the newsletter sign up `form` is submitted if:
+  - The `input` field is empty
+  - The email address is not formatted correctly
+
+## Deployed using vercel
+
+The application is hosted on vercel, check it out here [Manage-landing-page]()
 
 ## Available Scripts
 
@@ -13,6 +27,21 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Media Queries
+- Javascript
+- React
+
+## Author
+
+- Website - [My portfolio](https://dvelat-portfolio.vercel.app/)
+- Frontend Mentor - [@dvelatcodes](https://www.frontendmentor.io/profile/dvelatcodes)
+- Linkedin - [@Love (Dvelat codes) Olubummo](https://www.linkedin.com/in/love-olubummo-dvelat/)
 
 ### `npm test`
 
